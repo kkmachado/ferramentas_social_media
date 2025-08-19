@@ -1,0 +1,5 @@
+{
+  "name": "Social Media Tool Analyzer",
+  "description": "A web application that presents a strategic evaluation of social media monitoring tools, based on a detailed report. It includes KPI analysis, tool comparisons, a decision matrix, and final recommendations.",
+  "requestFramePermissions": []
+}
